@@ -1,4 +1,4 @@
-# Supplementary figures of paper "Evidential Uncertainty and Diversity Guided Deep Active Learning for Scene Graph Generation (EDAL)"
+# Evidential Uncertainty and Diversity Guided Deep Active Learning for Scene Graph Generation (Authors response)
 
 ![1](https://user-images.githubusercontent.com/110477574/182402647-85425b4e-a6f3-4030-9b48-ee2e4c6b6703.jpg)<br><br><br>
 
